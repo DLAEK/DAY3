@@ -1,0 +1,28 @@
+.box {
+  width: 1000px;
+  height: 1000x;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bow > div {
+  width: 100px;
+  height: 100px;
+}
+.one {
+  background-color: aqua;
+}
+.two {
+  background-color: aquamarine;
+}
+.three {
+  background-color: blanchedalmond;
+}
+.four {
+  background-color: burlywood;
+}
+.five {
+  background-color: blueviolet;
+}

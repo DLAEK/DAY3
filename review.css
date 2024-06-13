@@ -1,0 +1,23 @@
+* {
+  color: red;
+}
+.moto {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.ment {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+.button {
+  border: 1px solid=black;
+  width: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: black;
+}
